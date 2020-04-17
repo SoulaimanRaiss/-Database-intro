@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="400f5fc8-e49f-4222-8f50-648e7ae53b7a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="friends.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="friends.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="friends.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="friends.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="friend: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1acpFITHPM3V7Gw1cN28WaRxMH8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Guido\PhpstormProjects\friendmanager" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="400f5fc8-e49f-4222-8f50-648e7ae53b7a" name="Default Changelist" comment="" />
+      <created>1587044630447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587044630447</updated>
+      <workItem from="1587044631801" duration="3596000" />
+      <workItem from="1587048251667" duration="5664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="110" key="#PHP" timestamp="1587045942506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="110" key="#PHP/1920.8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587045942506" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587047410018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587047410018" />
+    <state x="921" y="277" key="FileChooserDialogImpl" timestamp="1587047378448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="921" y="277" key="FileChooserDialogImpl/1920.8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587047378448" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1587045105798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/1920.8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587045105798" />
+    <state x="676" y="148" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1587047435999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="148" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/1920.8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587047435999" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587048340680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/1920.8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587048340680" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1587055293753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/1920.8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587055293753" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1587055290310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/1920.8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587055290310" />
+  </component>
+</project>
